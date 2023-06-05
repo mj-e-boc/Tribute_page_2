@@ -1,1 +1,2 @@
-# Tribute_page_2
+# Tribute-page-
+A tribute to the ex Kenyan president 
